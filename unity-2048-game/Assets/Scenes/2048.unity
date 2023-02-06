@@ -2166,3 +2166,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tileprefab: {fileID: 4233869739702143398, guid: a39de99f5e2b6074cbdba6fa3c29fbd7, type: 3}
+  tileStates:
+  - {fileID: 11400000, guid: c9d2afdf4358b6045933f8bd15a46261, type: 2}
+  - {fileID: 11400000, guid: 63417198c52673d4aa164a76a43e4bd6, type: 2}
+  - {fileID: 11400000, guid: f19b97f42a603f84ba8dad90b70b348a, type: 2}
+  - {fileID: 11400000, guid: 960ae85df3c00e74daf494ca33ac85da, type: 2}
+  - {fileID: 11400000, guid: 21ad9eec1f35b6a42a8fa5503be09dad, type: 2}
+  - {fileID: 11400000, guid: af2b64a08721d8142b20dc66da55f03b, type: 2}
+  - {fileID: 11400000, guid: 5b045215894012642bb7fe8065236a78, type: 2}
+  - {fileID: 11400000, guid: fd31735f880e8fc4f81616842074e45f, type: 2}
+  - {fileID: 11400000, guid: 39ea0b1f97679c242b1b7bcc19d23475, type: 2}
+  - {fileID: 11400000, guid: 5c5dc39ea4948134b853bfb927f9da9e, type: 2}
+  - {fileID: 11400000, guid: ae71bf58f271fce40a0c6866ed99f19a, type: 2}
